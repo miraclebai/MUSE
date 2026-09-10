@@ -12,7 +12,9 @@
   <a href="#biological-inspiration">Inspiration</a> ·
   <a href="#framework">Framework</a> ·
   <a href="#quantitative-results">Quantitative Results</a> ·
-  <a href="#visual-results">Visual Results</a>
+  <a href="#visual-results">Visual Results</a> ·
+  <a href="#generalization">Generalization</a> ·
+  <a href="#downstream-tasks">Downstream Tasks</a>
 </p>
 
 <p align="center">
@@ -27,8 +29,6 @@
 ## Overview
 
 **MUSE** studies single-image dehazing under challenging haze conditions, including spatially nonuniform and dense haze. The goal is to recover scene visibility while preserving image structure and a natural appearance.
-
-This repository presents the biological inspiration, framework, quantitative comparisons, and selected qualitative results from the project. The gallery covers indoor, outdoor, nonuniform-haze, dense-haze, and real-world scenes.
 
 ## Biological Inspiration
 
@@ -297,3 +297,17 @@ Input images, comparison methods, MUSE outputs, and clear references where avail
 ![Visual comparison on FTD](assets/ftd.png)
 
 </details>
+
+## Generalization
+
+<p align="center">
+  <img src="assets/generalization.png" alt="MUSE generalization results on remote-sensing, snowy, rainy, and underwater images, with inputs above restored outputs in each group" width="100%">
+</p>
+<p align="center"><em>Cross-scenario generalization on remote-sensing, snowy, rainy, and underwater images. Each group shows the inputs in the first row and restored outputs in the second row.</em></p>
+
+## Downstream Tasks
+
+<p align="center">
+  <img src="assets/downstream-tasks.png" alt="Downstream task comparisons for object detection, object segmentation, and keypoint detection using DS-RDMPD, IDB, BioIR, IHDCP, and MUSE" width="100%">
+</p>
+<p align="center"><em>Qualitative comparisons for object detection, object segmentation, and keypoint detection.</em></p>
