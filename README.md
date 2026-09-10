@@ -1,3 +1,5 @@
+<p align="center"><strong>The code will be open-sourced soon. Stay tuned!</strong></p>
+
 <p align="center">
   <img src="assets/muse-logo.png" alt="MUSE logo" width="360">
 </p>
@@ -10,12 +12,11 @@
   <a href="#biological-inspiration">Inspiration</a> ·
   <a href="#framework">Framework</a> ·
   <a href="#quantitative-results">Quantitative Results</a> ·
-  <a href="#visual-results">Visual Results</a> ·
-  <a href="#availability">Availability</a>
+  <a href="#visual-results">Visual Results</a>
 </p>
 
 <p align="center">
-  <strong>Single-Image Dehazing</strong> &nbsp; / &nbsp; Computer Vision &nbsp; / &nbsp; Image Restoration
+  <strong>Single-Image Dehazing</strong> &nbsp; / &nbsp; Image Restoration &nbsp; / &nbsp; Computer Vision
 </p>
 
 <p align="center">
@@ -296,19 +297,3 @@ Select a dataset below to view its comparison figure. Click any figure to inspec
 ![Visual comparison on FTD](assets/ftd.png)
 
 </details>
-
-## Availability
-
-| Material | Status |
-| :--- | :--- |
-| Method logo | Available |
-| Biological inspiration and framework figures | Available |
-| Quantitative comparisons | Available |
-| Selected visual comparisons | Available |
-| Source code and model weights | Not publicly available at this stage |
-
-Publication details and citation information will be added when available.
-
-## Acknowledgments
-
-We acknowledge the authors of the datasets and comparison methods shown in the figures. Dataset images and third-party materials remain subject to their original terms. This repository does not redistribute the underlying datasets.
