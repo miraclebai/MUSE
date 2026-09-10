@@ -1,0 +1,16 @@
+# Only explicitly selected presentation materials belong in this repository.
+*
+!/.gitignore
+!/README.md
+!/assets/
+/assets/*
+!/assets/muse-logo.png
+!/assets/framework.png
+!/assets/teaser.png
+!/assets/i-haze.png
+!/assets/o-haze.png
+!/assets/nh-haze.png
+!/assets/dense-haze.png
+!/assets/rtts.png
+!/assets/hsts.png
+!/assets/ftd.png
