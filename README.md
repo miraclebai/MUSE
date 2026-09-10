@@ -46,7 +46,7 @@ This repository presents the biological inspiration, framework, quantitative com
 
 ## Quantitative Results
 
-Results across seven benchmark datasets are grouped below. Expand each dataset to view the full comparison. **Bold**, <ins>underlined</ins>, and *italic* values denote the best, second-best, and third-best results within each column, respectively. ↑ means higher is better; ↓ means lower is better.
+Results across seven benchmark datasets are grouped below. **Bold**, <ins>underlined</ins>, and *italic* values denote the best, second-best, and third-best results within each column, respectively. ↑ means higher is better; ↓ means lower is better.
 
 ### Paired datasets
 
@@ -236,7 +236,7 @@ Results across seven benchmark datasets are grouped below. Expand each dataset t
 
 ## Visual Results
 
-Select a dataset below to view its comparison figure. Click any figure to inspect it at full resolution. Input images, comparison methods, MUSE outputs, and clear references where available are labeled within each figure.
+Input images, comparison methods, MUSE outputs, and clear references where available are labeled within each figure.
 
 ### Paired benchmarks
 
