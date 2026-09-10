@@ -258,7 +258,7 @@ Input images, comparison methods, MUSE outputs, and clear references where avail
 
 </details>
 
-<details open>
+<details>
 <summary><strong>NH-HAZE · Nonuniform haze</strong></summary>
 <br>
 
@@ -276,7 +276,7 @@ Input images, comparison methods, MUSE outputs, and clear references where avail
 
 ### Real-world scenes
 
-<details>
+<details open>
 <summary><strong>RTTS</strong></summary>
 <br>
 
