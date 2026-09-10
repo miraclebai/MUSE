@@ -30,6 +30,8 @@
 
 **MUSE** studies single-image dehazing under challenging haze conditions, including spatially nonuniform and dense haze. The goal is to recover scene visibility while preserving image structure and a natural appearance.
 
+MUSE is trained **exclusively on Haze4K**, with **no fine-tuning on any test dataset**. We demonstrate its cross-scenario generalization on remote-sensing, snowy, rainy, and underwater images, and present qualitative results for downstream object detection, object segmentation, and keypoint detection.
+
 ## Biological Inspiration
 
 <p align="center">
